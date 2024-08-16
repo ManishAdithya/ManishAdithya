@@ -1,6 +1,7 @@
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 # 💫 About Me:
 🔭 I’m currently working on AI Chatbot creation<br><br>🌱 I’m currently learning AI, Kernal Development, Vulnerable APKs<br><br>📝 I regularly write articles on https://medium.com/@5h3nron<br><br>📫 How to reach me manishadithya07@gmail.com<br><br>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+
 
 
 
