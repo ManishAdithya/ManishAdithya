@@ -6,9 +6,6 @@
 # 💫 About Me:
 🔭 I’m currently working on AI Chatbot creation<br><br>🌱 I’m currently learning AI, Kernal Development, Vulnerable APKs<br><br>📝 I regularly write articles on https://medium.com/@5h3nron<br><br>📫 How to reach me manishadithya07@gmail.com
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
 <p align="left">
