@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imghippo.com/files/WjYHv1723782425.png)]
+![MasterHead](https://i.imghippo.com/files/WjYHv1723782425.png)
 # 💫 About Me:
 <img align="right" alt="Coding" width="250" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 🔭 I’m currently working on AI Chatbot creation<br><br>🌱 I’m currently learning AI, Kernal Development, Vulnerable APKs<br><br>📝 I regularly write articles on https://medium.com/@5h3nron<br><br>📫 How to reach me manishadithya07@gmail.com<br><br>
