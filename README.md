@@ -16,6 +16,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ManishAdithya&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishAdithya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# GitHub Activity Graph:
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ManishAdithya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
