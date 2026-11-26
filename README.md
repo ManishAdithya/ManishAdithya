@@ -1,28 +1,160 @@
-![MasterHead](https://i.imghippo.com/files/WjYHv1723782425.png)
-# 💫 About Me:
-<img align="right" alt="Coding" width="250" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
-🔭 I’m currently working on AI Chatbot creation<br><br>🌱 I’m currently learning AI, Kernal Development, Vulnerable APKs<br><br>📝 I regularly write articles on https://medium.com/@5h3nron<br><br>📫 How to reach me manishadithya07@gmail.com<br><br>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6cff,100:ff5fa2&height=190&section=header&text=Manish%20Adithya%20P%20V&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20%E2%80%A2%20Software%20Development%20%E2%80%A2%20Security&descSize=16&descAlignY=58&animation=fadeIn" alt="Manish Adithya P V" />
+</p>
 
+<p align="center">
+  <a href="https://5h3nron.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+intelligent+solutions+with+AI+and+ML;Computer+vision+%E2%80%A2+LLMs+%E2%80%A2+Full-stack+apps;Breaking+Android+apps+(responsibly);Explore+my+portfolio+%E2%86%92+5h3nron.vercel.app" alt="Typing intro" />
+  </a>
+</p>
 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manish._2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-adithya-p-v-215b32287/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@5h3nron) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ManishAdithya07) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/manishAdithya) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ManishAdithya&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManishAdithya&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishAdithya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-# GitHub Activity Graph:
-![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ManishAdithya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://5h3nron.vercel.app"><img src="https://img.shields.io/badge/Portfolio-5h3nron.vercel.app-7c6cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/manish-adithya-p-v-215b32287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@5h3nron"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:manishadithya07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ManishAdithya&icon=2&color=0)](https://visitcount.itsvg.in)
 
+## About me
 
+<img align="right" width="260" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" alt="Coding" />
+
+I'm a **Computer Science and Engineering** student at **Amrita Vishwa Vidyapeetham** from Hyderabad, India, passionate about **Artificial Intelligence, Machine Learning, Data Science and Software Development**. I like building practical projects that solve real-world problems.
+
+- 🔭 Building **AI-powered assistive tech** and **LLM language tools**
+- 🌱 Learning **kernel development**, **Android app security** and **intelligent systems**
+- 🛡️ Into **penetration testing**, **vulnerability analysis** and **malware analysis**
+- ✍️ I write about tech on [Medium](https://medium.com/@5h3nron)
+- 💼 **Open to internships and collaborations**: [get in touch](mailto:manishadithya07@gmail.com)
+
+<br clear="right" />
+
+---
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ <a href="https://github.com/ManishAdithya/BVI-navigation">BVI Navigation</a></h3>
+      Context-aware navigation assistant for visually impaired people. YOLO obstacle detection, hazard assessment, route memory and <b>HRTF spatial audio</b> through regular headphones.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗣️ AI Romanizer</h3>
+      LLM system that understands informal, dialect-rich <b>Romanized Telugu</b> (Telglish): translation, word-by-word explanations, Telugu script conversion and chat, with streaming and multi-turn memory.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 PrepTrack</h3>
+      Full-stack student progress platform with student and admin dashboards, study resources, discussions and leaderboards.
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐉 <a href="https://github.com/ManishAdithya/portfolio-os">Portfolio OS</a></h3>
+      My portfolio, built as a desktop operating system in the browser: windows, a terminal, games, achievements and animated cosmos wallpapers. <a href="https://5h3nron.vercel.app">Try it live →</a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,bash,powershell" alt="Languages" />
+</p>
+
+**AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="AI and ML" />
+  <br />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs_%26_Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+</p>
+
+**Web and app development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap,firebase,androidstudio" alt="Web and app" />
+</p>
+
+**Databases and tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,gitlab,linux,vscode" alt="Databases and tools" />
+</p>
+
+**Security**
+<p>
+  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
+  <br />
+  <img src="https://img.shields.io/badge/Android_App_Hacking-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-B71C1C?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability_Analysis-37474F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Malware_Analysis-4A148C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frida-EF6456?style=flat-square" />
+  <img src="https://img.shields.io/badge/Objection-263238?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTTP_Toolkit-E1421F?style=flat-square" />
+</p>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManishAdithya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ManishAdithya&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishAdithya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManishAdithya&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+## Elsewhere
+
+<p align="center">
+  <a href="https://5h3nron.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7c6cff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manish-adithya-p-v-215b32287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@5h3nron"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/ManishAdithya07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/manish._2004"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://codepen.io/manishAdithya"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ManishAdithya&icon=2&color=0" alt="Profile visits" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5fa2,100:7c6cff&height=110&section=footer" width="100%" alt="" />
