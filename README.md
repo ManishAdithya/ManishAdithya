@@ -154,7 +154,7 @@ I'm a **Computer Science and Engineering** student at **Amrita Vishwa Vidyapeeth
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ManishAdithya&icon=2&color=0" alt="Profile visits" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ManishAdithya&label=Profile%20views&color=7c6cff&style=for-the-badge" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5fa2,100:7c6cff&height=110&section=footer" width="100%" alt="" />
