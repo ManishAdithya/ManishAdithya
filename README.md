@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://5h3nron.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+intelligent+solutions+with+AI+and+ML;Computer+vision+%E2%80%A2+LLMs+%E2%80%A2+Full-stack+apps;Breaking+Android+apps+(responsibly);Explore+my+portfolio+%E2%86%92+5h3nron.vercel.app" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+intelligent+solutions+with+AI+and+ML;Computer+vision+%E2%80%A2+LLMs+%E2%80%A2+Full-stack+apps;Turning+research+ideas+into+real+products;Explore+my+portfolio+%E2%86%92+5h3nron.vercel.app" alt="Typing intro" />
   </a>
 </p>
 
