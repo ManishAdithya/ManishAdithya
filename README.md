@@ -25,8 +25,7 @@
 I'm a **Computer Science and Engineering** student at **Amrita Vishwa Vidyapeetham** from Hyderabad, India, passionate about **Artificial Intelligence, Machine Learning, Data Science and Software Development**. I like building practical projects that solve real-world problems.
 
 - 🔭 Building **AI-powered assistive tech** and **LLM language tools**
-- 🌱 Learning **kernel development**, **Android app security** and **intelligent systems**
-- 🛡️ Into **penetration testing**, **vulnerability analysis** and **malware analysis**
+- 🤖 Into **computer vision**, **deep learning**, **NLP and LLMs**, **full-stack development** and **system design**
 - ✍️ I write about tech on [Medium](https://medium.com/@5h3nron)
 - 💼 **Open to internships and collaborations**: [get in touch](mailto:manishadithya07@gmail.com)
 
@@ -48,7 +47,7 @@ I'm a **Computer Science and Engineering** student at **Amrita Vishwa Vidyapeeth
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🗣️ AI Romanizer</h3>
+      <h3>🗣️ <a href="https://github.com/ManishAdithya/Bhashify">AI Romanizer</a></h3>
       LLM system that understands informal, dialect-rich <b>Romanized Telugu</b> (Telglish): translation, word-by-word explanations, Telugu script conversion and chat, with streaming and multi-turn memory.
       <br /><br />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -60,7 +59,7 @@ I'm a **Computer Science and Engineering** student at **Amrita Vishwa Vidyapeeth
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 PrepTrack</h3>
+      <h3>📈 <a href="https://github.com/ManishAdithya/PrepTrack">PrepTrack</a></h3>
       Full-stack student progress platform with student and admin dashboards, study resources, discussions and leaderboards.
       <br /><br />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -84,7 +83,7 @@ I'm a **Computer Science and Engineering** student at **Amrita Vishwa Vidyapeeth
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,bash,powershell" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" alt="Languages" />
 </p>
 
 **AI / ML**
@@ -92,36 +91,14 @@ I'm a **Computer Science and Engineering** student at **Amrita Vishwa Vidyapeeth
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="AI and ML" />
   <br />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs_%26_Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-**Web and app development**
+**Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap,firebase,androidstudio" alt="Web and app" />
-</p>
-
-**Databases and tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,gitlab,linux,vscode" alt="Databases and tools" />
-</p>
-
-**Security**
-<p>
-  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
-  <br />
-  <img src="https://img.shields.io/badge/Android_App_Hacking-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-B71C1C?style=flat-square&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulnerability_Analysis-37474F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Malware_Analysis-4A148C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frida-EF6456?style=flat-square" />
-  <img src="https://img.shields.io/badge/Objection-263238?style=flat-square" />
-  <img src="https://img.shields.io/badge/HTTP_Toolkit-E1421F?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,postgres,docker,git,linux" alt="Development" />
 </p>
 
 ---
