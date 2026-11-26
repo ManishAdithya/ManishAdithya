@@ -101,6 +101,19 @@ I'm a **Computer Science and Engineering** student at **Amrita Vishwa Vidyapeeth
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,postgres,docker,git,linux" alt="Development" />
 </p>
 
+**Security**
+<p>
+  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
+  <br />
+  <img src="https://img.shields.io/badge/Android_App_Hacking-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-B71C1C?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability_Analysis-37474F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Malware_Analysis-4A148C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frida-EF6456?style=flat-square" />
+  <img src="https://img.shields.io/badge/Objection-263238?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTTP_Toolkit-E1421F?style=flat-square" />
+</p>
+
 ---
 
 ## GitHub stats
