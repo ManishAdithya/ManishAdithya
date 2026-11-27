@@ -131,10 +131,6 @@ I'm a **Computer Science and Engineering** student at **Amrita Vishwa Vidyapeeth
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishAdithya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManishAdithya&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
-</p>
-
 ---
 
 ## Elsewhere
