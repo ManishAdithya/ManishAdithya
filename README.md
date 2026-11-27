@@ -60,10 +60,15 @@ I'm a **Computer Science and Engineering** student at **Amrita Vishwa Vidyapeeth
   <tr>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/ManishAdithya/PrepTrack">PrepTrack</a></h3>
-      Full-stack student progress platform with student and admin dashboards, study resources, discussions and leaderboards.
+      Study hub for a college class, run by its students: notes, slides, past papers and exam dates with <b>community review</b>, an XP leaderboard, a forum and an exam countdown. Live for the EEE 2024 batch at Amrita, installable as a PWA. <a href="https://preptrack-app.vercel.app">Try it live →</a>
       <br /><br />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🐉 <a href="https://github.com/ManishAdithya/portfolio-os">Portfolio OS</a></h3>
